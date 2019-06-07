@@ -1,0 +1,51 @@
+{
+    "plugins": [
+       "tbfed-pagefooter",
+       "splitter",
+       "back-to-top-button",
+       "advanced-emoji",
+       "pageview-count",
+       "auto-scroll-table",
+       "popup",
+       "url-embed",
+       "alerts",
+       "-sharing",
+       "github",
+       "favicon",
+       "emphasize",
+       "-lunr",
+       "-search",
+       "search-plus",
+       "github-buttons",
+       "expandable-chapters-small"
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy 北大附中",
+            "modify_label": "Updated:",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "github": {
+            "url": "https://github.com/pkuschool/cbook/issues"
+        },
+        "favicon": {
+            "shortcut": "assets/images/favicon.ico",
+            "bookmark": "assets/images/favicon.ico",
+            "appleTouch": "assets/images/apple-touch-icon.png",
+            "appleTouchMore": {
+                "120x120": "assets/images/apple-touch-icon-120x120.png",
+                "180x180": "assets/images/apple-touch-icon-180x180.png"
+            }
+        },
+        "github-buttons": {
+            "buttons": [
+              {
+                "user": "pkuschool",
+                "type": "follow",
+                "width": "230",
+                "size": "small"
+              }
+            ]
+            }
+    }
+}
