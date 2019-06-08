@@ -11,7 +11,6 @@
        "alerts",
        "-sharing",
        "github",
-       "favicon",
        "emphasize",
        "-lunr",
        "-search",
@@ -22,20 +21,11 @@
     "pluginsConfig": {
         "tbfed-pagefooter": {
             "copyright":"Copyright &copy 北大附中",
-            "modify_label": "Updated:",
+            "modify_label": "Updated: ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "github": {
-            "url": "https://github.com/pkuschool/cbook/issues"
-        },
-        "favicon": {
-            "shortcut": "assets/images/favicon.ico",
-            "bookmark": "assets/images/favicon.ico",
-            "appleTouch": "assets/images/apple-touch-icon.png",
-            "appleTouchMore": {
-                "120x120": "assets/images/apple-touch-icon-120x120.png",
-                "180x180": "assets/images/apple-touch-icon-180x180.png"
-            }
+            "url": "https://github.com/pkuschool/pbook/issues"
         },
         "github-buttons": {
             "buttons": [
