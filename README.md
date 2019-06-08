@@ -33,8 +33,3 @@ git clone https://github.com/pkuschool/cbook.git
    * 如添加图片，请使用“项目英文缩写+自定义编号”进行命名，放入images文件夹内。
 
 * 本项目源文件在master，网站页面文件在gh-pages分支。所以，各项目内容编写完毕后，请在本repo新建项目子分支，push内容即可。
----
-常用命令
-> gitbook build && ls _book && git checkout master && git add .  && git commit -m '更新说明' && git push -u origin master 
-
-> git checkout gh-pages && git rm --cached -r . && git clean -df && rm -rf *~ && echo "*~" > .gitignore && echo "_book" >> .gitignore && git add .gitignore && git commit -m "Ignore some files" && cp -r _book/* . && git add . && git commit -m '更新说明' && git push -u origin gh-pages && git checkout master 
