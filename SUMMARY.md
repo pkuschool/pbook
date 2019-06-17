@@ -1,9 +1,10 @@
 # Summary
 
 * [北大附中人文项目](README.md)
-    * [沿革说明](README1.md)
+    * [学分说明](README1.md)
     * [评价标准](README2.md)
     * [技术教程](README3.md)
+    * [会议纪要](README4.md)
 * [公共说理](a/a.md)
     * [简介](a/a0.md)
     * [2019-2020第一期](a/a1.md)
