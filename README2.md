@@ -13,12 +13,14 @@
 17-18周完成项目，提交项目总结，通过后获得学分，未通过不记录F，不给学分。
 
 ### 项目平台
+
 项目自始至终，需在[北大附中人文项目平台](https://github.com/pkuschool/pbook)完成。
 项目成员自学git，建立项目分支，要求每周有Push记录，Commit信息需完整清晰。
 如使用images文件夹发布图片，每周不得多于一张。
 
 
 ### 项目设计要求
+
 参考[HQPBL](https://hqpbl.org/)，小组需依据如下问题完成设计。
 
 #### INTELLECTUAL CHALLENGE AND ACCOMPLISHMENT
@@ -62,6 +64,7 @@ between a teacher and learner;students complete work individuallyand show it onl
 it not only with the teacher but also with each other, experts, and other people beyond the classroom. This occurs both during a project, as part of the product development and formative assessment process and at its conclusion, when the product is shared and discussed with an audience. This public process and final presentation encourages students to improve the quality of their work and demonstrates what students know and can do.
 
 #### COLLABORATION
+
 Students collaborate with other students in person or online and/or receive guidance from adult mentors and experts.
 To what extent do students:
 
