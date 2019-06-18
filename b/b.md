@@ -31,3 +31,21 @@
 
 > [不服来战！北大附中的校史怎么写，你说了算！](https://mp.weixin.qq.com/s?__biz=MzU2MzUwNDYzNQ==&mid=2247483666&idx=1&sn=1c773af634e456446b324859425ecb01&chksm=fc587586cb2ffc903cde7c722a7a887dc0acea5755a7a8ff8452d0e434f8e03853a91425b9fd&mpshare=1&scene=1&srcid=0506HZWnClKDe6zM5w9oOAXo&pass_ticket=i9%2FaVLMUYIEJzkQrecTO7fmunmRr6LHZDkAQ6D5ypNJ0sW3sQ1PVpAJb3S58W4Rt#rd)
 
+
+### Welcome to 北大附中年刊项目组
+
+一所没有年刊的学校，一定不是一所有文化有历史有积淀有个性的学校，是吧？：）
+所以，我们要有年刊。
+
+### 做自己的上帝
+
+上帝说要有光就有了，我们说要有年刊，并不是就有了。
+所以，我们只能做自己的上帝。
+
+### 如何做
+
+还不知道，等你来说。
+
+### 如何报名
+
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=dvGcSe515EmAwVKvzSjStX_OJCfvpMRDiZr_vPuTJPBUN1BDT1JQQzVIWElTRzNQWlpXUTQ0V0sxSi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
