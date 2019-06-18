@@ -1,7 +1,10 @@
 ## 北大附中项目式学习/研究性学习评价标准
 
 最大限度提供自主发展空间，在公共说理必修之外，可依据本标准进行自主项目申报。学院审核通过，可记为研学必修学分。
-审核方式：请研究git并push到https://github.com/pkuschool/pbook，等待进一步通知。
+上交审核材料方式：
+研究git
+push到 https://github.com/pkuschool/pbook
+等待进一步通知
 
 ### 人员
 
