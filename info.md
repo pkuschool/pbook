@@ -30,6 +30,6 @@
 
 ## 学院教师
 <div  align="center">    
- <img src="https://i1.kknews.cc/SIG=5bsj5v/2190007224895n64r12.jpg" width = "407" height = "305" alt="7zhi" align=center />
+ <img src="/images/our.png" width = "407" height = "305" alt="7zhi" align=center />
 </div>
 
