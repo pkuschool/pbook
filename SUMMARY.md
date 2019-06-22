@@ -4,8 +4,10 @@
 * [人文项目简介](README.md)
     * [学分说明](README/README1.md)
     * [评价标准](README/README2.md)
-    * [技术教程](README/README3.md)
     * [进度时间](README/README4.md)
+    * [预算草案](README/README5.md)
+    * [学分公示](README/README6.md)
+    * [技术教程](README/README3.md)
 * [公共说理](a/a.md)
     * [项目方案](a/a0.md)
     * [2019-2020第一期](a/a1.md)
@@ -135,7 +137,6 @@
         * [202001](r/r6-5.md)
         * [202002](r/r6-6.md)
 
------
 ## 语言文化项目
 * [简介](lc/lc.md)
     * [学分说明](lc/lc1.md)
@@ -149,7 +150,6 @@
     * [法国](z/z1.md)
     * [日本](z/z2.md)
 
------
 ## 北大附中公民教育报告
 * [简介](cv/cv.md)
     * [框架方法](cv/cv1.md)
@@ -162,3 +162,4 @@
 
 -----
 * [关于博雅学院](info.md)
+
