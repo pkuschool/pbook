@@ -1,4 +1,11 @@
-项目平台简明教程
+## 项目平台简明教程
+
+<iframe   src="https://www.imooc.com/video/7623
+" width="800" height="1200"   frameborder="0"  name="boya"     scrolling="yes/no/auto">   
+</iframe>
+
+
+## 悟性超高可以直接看如下简版文字教程
 
 * 先到[这里下载安装 Node.js](https://nodejs.org/en/)，在管理员权限下，打开命令行终端，输入：
 ```

@@ -42,7 +42,7 @@
 
 ## 选排方式
 
-<img src="/images/xuanpai.png" alt="house" align=center />
+研究中……
 
 * 如自主申报，需依照[《北大附中项目式学习/研究性学习评价标准》](README2.md)标准完成。难度较大，需先与[学院长面谈](mailto:sunyulei@i.pkuschool.edu.cn)，除非必要，不建议选择本方式。
 
